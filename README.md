@@ -4,7 +4,7 @@ This is not a homework assignment. The purpose of this repo is so you can practi
 
 ## Getting Started
 
-Download the Figma file `pair_programming.fig` and upload to Figma.
+Download the Figma file `Pair Programming.fig` and upload to Figma.
 
 ### Install Extensions and Dependencies
 
