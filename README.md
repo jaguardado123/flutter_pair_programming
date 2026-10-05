@@ -1,10 +1,10 @@
-# Flutter Practice
+# Pair Programming Practice
 
-This is not a homework nor exercise assignment. The purpose of this repo is so that you can follow along with in-class examples without having to install Flutter in your personal computer.
+This is not a homework assignment. The purpose of this repo is so you can practice pair programming in class.
 
 ## Getting Started
 
-You need to follow the steps below to be able to run your Flutter application.
+Download the Figma file `pair_programming.fig` and upload to Figma.
 
 ### Install Extensions and Dependencies
 
